@@ -1,0 +1,19 @@
+{
+  "author": "Kris Windham <kriswindham@gmail.com> (http://krwindham.jit.su)",
+  "name": "equip-example",
+  "description": "An example using jesusabdullah/node-equip",
+  "version": "0.0.0",
+  "main": "./bin/server",
+  "scripts": {
+    "start": "./bin/server"
+  },
+  "dependencies": {
+    "flatiron": "0.1.16",
+    "equip": "https://github.com/jesusabdullah/node-equip/tarball/master"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "0.6.x"
+  }
+}
