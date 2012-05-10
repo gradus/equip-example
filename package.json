@@ -9,7 +9,8 @@
   },
   "dependencies": {
     "flatiron": "0.1.16",
-    "equip": "https://github.com/jesusabdullah/node-equip/tarball/master"
+    "equip": "https://github.com/jesusabdullah/node-equip/tarball/master",
+    "union": "0.3.0"
   },
   "devDependencies": {},
   "optionalDependencies": {},
